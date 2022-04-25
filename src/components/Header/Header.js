@@ -5,7 +5,6 @@ import {
 	AiFillInstagram,
 	AiFillLinkedin,
 	AiFillYoutube,
-	AiFillMediumSquare,
 } from "react-icons/ai";
 import { DiCssdeck } from "react-icons/di";
 
@@ -18,8 +17,6 @@ import {
 	SocialIcons,
 	Span,
 } from "./HeaderStyles";
-
-import { SiFiverr, SiTiktok } from "react-icons/si";
 
 const Header = () => (
 	<Container>
@@ -64,18 +61,6 @@ const Header = () => (
 			</SocialIcons>
 			<SocialIcons href="https://www.youtube.com/c/CodewithDogaOzgon">
 				<AiFillYoutube size="3rem" />
-			</SocialIcons>
-			<SocialIcons href="https://medium.com/@dogaozgon">
-				<AiFillMediumSquare size="3rem" />
-			</SocialIcons>
-			<SocialIcons href="https://www.tiktok.com/@dogaozgon">
-				<SiTiktok size="2rem" />
-			</SocialIcons>
-			<SocialIcons href="https://www.fiverr.com/dogaozgon">
-				<SiFiverr size="3rem" />
-			</SocialIcons>
-			<SocialIcons href="https://www.instagram.com/dogaozgon/?hl=en">
-				<AiFillInstagram size="3rem" />
 			</SocialIcons>
 		</Div3>
 	</Container>
