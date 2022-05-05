@@ -1,5 +1,13 @@
 export const projects = [
 	{
+		title: "Built and Deployed OzgonHeadphones [2022]",
+		description:
+			"Built and deployed an ecommerce website with payment integration. Used Next.js for the front-end, implemented payments with Stripe and used Sanity for content management.",
+		image: "/images/ozgon-headphones.png",
+		tags: ["Next.js", "Stripe", "Sanity"],
+		id: 11,
+	},
+	{
 		title: "Built and Deployed SortPerf [2022]",
 		description:
 			"Developed and deployed a website called SortPerf. Used React.js and MaterialUI for the front end and deployed with GitHub Pages. The website aims to help you choose your client side sorting algoritm based on your data and needs. You can compare the real time client side performace of some of the most popular sorting algorithms while sorting a variety of size and type of unsorted arrays.",
