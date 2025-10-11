@@ -16,7 +16,7 @@ const Hero = () => (
 				Doga Ozgon's Portfolio
 			</SectionTitle>
 			<SectionText>
-				Doga Ozgon has helped thosands of developers get better at what they do,
+				Doga Ozgon has helped thousands of developers get better at what they do,
 				covering topics such as python, machine learning, artificial
 				intelligence, web development and general programming fundamentals.
 			</SectionText>
