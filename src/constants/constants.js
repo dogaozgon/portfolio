@@ -1,5 +1,13 @@
 export const projects = [
 	{
+		title: "Built and Deployed CodeWorld [2025]",
+		description:
+			"Built and deployed a Full-Stack ecommerce website with payment integration. Used Nextjs 15, Tailwind CSS, Stripe, TypeScript, Zustand",
+		image: "/images/codeworld.png",
+		tags: ["Next.js", "Stripe", "Tailwind CSS", "TypeScript", "Zustand"],
+		id: 12,
+	},
+	{
 		title: "Built and Deployed OzgonHeadphones [2022]",
 		description:
 			"Built and deployed an ecommerce website with payment integration. Used Next.js for the front-end (and some back-end for payment integration functionality), implemented payments with Stripe and used Sanity for content management. The website allows you to choose from a variety of headphones with full payment functionality. The content sold on the website can easily be modified using Sanity.",
